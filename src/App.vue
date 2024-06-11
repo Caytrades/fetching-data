@@ -1,10 +1,14 @@
 <script setup>
-import MainComponent from './components/MainComponent.vue'
+import FetchData from './components/FetchData.vue'
+// import Axios from './components/Axios.vue'
 </script>
 
 <template>
-  <MainComponent/>
- 
+
+<FetchData/>
+
+<!-- <Axios/> -->
+
 </template>
 
 
